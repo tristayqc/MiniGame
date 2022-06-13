@@ -61,8 +61,4 @@ crashlytics-build.properties
 .DS_Store
 Icon?
 .vscode
-<<<<<<< HEAD
 .vsconfig
-=======
-.vsconfig
->>>>>>> 82bcf13d75681e05975eb082c41962ee9e937f1f
